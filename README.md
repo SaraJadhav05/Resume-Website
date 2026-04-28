@@ -27,22 +27,22 @@ Added a profile picture (profile.jpg) at the top section to personalise the resu
 make the presentation more engaging.
 
 5. Section Layout and IDs:
-Structured the resume into clear sections using semantic HTML5 tags (<section>, 
+Structured the resume into clear sections using semantic HTML5 tags (<section>,
 <header>, etc.) with unique IDs for internal linking and accessibility.
 
-6. Color Theme & Styling:
+7. Color Theme & Styling:
 Applied a cohesive, professional color scheme with soft highlights, interactive hover 
 effects, shadowed cards, and rounded corners. These design choices enhance the 
 visual appeal while maintaining a professional tone.
 
-7. Responsive Design:
+8. Responsive Design:
 Ensured that the layout is responsive across screen sizes using flex and percentage-
 based widths, along with media queries (if required later).
 
-8. Hover & Transition Effects:
+9. Hover & Transition Effects:
 Added smooth transitions and hover effects to navigation links and content blocks to 
 make the user experience more dynamic and interactive.
 
-9. Clean Alignment and Spacing:
+10. Clean Alignment and Spacing:
 Used margin and padding strategically to give content enough breathing room. 
 Ensured the alignment of headings, lists, and cards for clarity and visual balance.
