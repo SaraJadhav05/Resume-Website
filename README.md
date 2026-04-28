@@ -1,5 +1,3 @@
-# Resume-Website
-
 # 💼 Personal Resume Website
 
 ## 🔗 Live Website
