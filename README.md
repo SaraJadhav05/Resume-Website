@@ -25,7 +25,6 @@ I am passionate about data analysis, business strategy, and building digital sol
 ## 📂 Project Structure
 - index.html
 - style.css
-- script.js
 
 ## 📬 Contact
 - Email: sarajadhav05@gmail.com
